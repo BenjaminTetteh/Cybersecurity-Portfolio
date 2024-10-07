@@ -2,7 +2,10 @@
 
 
 # About Me
-I am Benjamin Tetteh, a versatile professional with over 15 years of experience in communication, event management, and graphic/UI/UX design, now transitioning into the field of cybersecurity. I have successfully managed projects across web, social media, and print platforms, demonstrating strong analytical abilities, creativity, and a solutions-oriented mindset. My skills in communication, team collaboration, and problem-solving have consistently contributed to impactful project outcomes.
+Hi, I am Benjamin Tetteh, a versatile professional with over 15 years of experience in communication, event management, and graphic/UI/UX design, now transitioning into the field of cybersecurity. I have successfully managed projects across web, social media, and print platforms, demonstrating strong analytical abilities, creativity, and a solutions-oriented mindset. My skills in communication, team collaboration, and problem-solving have consistently contributed to impactful project outcomes.
+
+My foray into cybersecurity stems from my passion, self-motivation, and desire to tackle complex challenges in the digital space. I have consistently pursued opportunities to expand my knowledge and practical skills, recently completing various certifications and projects, which have been showcased in this portfolio. I’m eager to contribute my skills, insights, and drive to cybersecurity teams, focused on safeguarding digital assets and addressing emerging threats.
+
 
 
 # Training and Certifications
@@ -37,6 +40,6 @@ Linux, MySQL, Python, Splunk, Network Security, WireShark, Microsoft 365, Cloud 
 
 
 # Let's Connect
-This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for your time. For more information, please connect with me on LinkedIn or reach out via email at benjamintetteh@gmail.com
+This portfolio will continuously grow as I complete more certifications and projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for your time. For more information, please connect with me on LinkedIn or reach out via email at benjamintetteh@gmail.com
 
 
