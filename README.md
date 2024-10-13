@@ -36,10 +36,10 @@ My foray into cybersecurity stems from my passion, self-motivation, and desire t
 
 
 ## Skills and Technologies
-Linux, MySQL, Python, Splunk, Network Security, WireShark, Microsoft 365, Cloud Computing, AWS, Azure, Research
+Linux, SQL, Python, Splunk, Network Security, WireShark, Microsoft 365, Cloud Computing, AWS, Azure, Research
 
 
 ## Let's Connect
-This portfolio will continuously grow as I complete more certifications and projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for your time. For more information, please connect with me on LinkedIn or reach out via email at benjamintetteh@gmail.com
+This portfolio will continuously grow as I complete more certifications and projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for your time. For more information, please connect with me on [LinkedIn](https://www.linkedin.com/in/benjamintetteh/) or reach out via email at benjamintetteh@gmail.com
 
 
