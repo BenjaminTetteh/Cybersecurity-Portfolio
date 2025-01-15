@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/056b368d-ce78-4266-a5ef-d1ec51f7b378)# Cybersecurity-Portfolio
+# Cybersecurity-Portfolio
 
 
 ### About Me
@@ -10,15 +10,25 @@ My foray into cybersecurity stems from my passion, self-motivation, and desire t
 
 ### Training and Certifications
 •	CompTIA Security+ (Expected 4/25)
+
 •	SOC Analyst 1 - Try Hack Me (Expected 3/25)
+
 •	Introduction to Vulnerability Management - Security Blue Team, 2024
+
 •	Google Cybersecurity Certificate, 2024
+
 •	Certified in Cybersecurity - ISC2, 2024
+
 •	Cybersecurity 101 - Try Hack Me, 2024
+
 •	Qualys Vulnerability Management Foundation, 2024
+
 •	Cisco Networking Basics, 2024
+
 •	Google, AI Essentials, 2024
+
 •	AWS Cloud Essentials, 2024
+
 •	UX Design - Google, 2023
 
 
