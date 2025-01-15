@@ -1,4 +1,4 @@
-# Cybersecurity-Portfolio
+![image](https://github.com/user-attachments/assets/056b368d-ce78-4266-a5ef-d1ec51f7b378)# Cybersecurity-Portfolio
 
 
 ### About Me
@@ -9,26 +9,28 @@ My foray into cybersecurity stems from my passion, self-motivation, and desire t
 
 
 ### Training and Certifications
-
-•	Google Cyber Security Professional Certificate, 2024
-
-•	Certified in Cybersecurity, ISC2, 2024
-
-•	Introduction to Cybersecurity, Try Hack Me, 2024
-
+•	CompTIA Security+ (Expected 4/25)
+•	SOC Analyst 1 - Try Hack Me (Expected 3/25)
+•	Introduction to Vulnerability Management - Security Blue Team, 2024
+•	Google Cybersecurity Certificate, 2024
+•	Certified in Cybersecurity - ISC2, 2024
+•	Cybersecurity 101 - Try Hack Me, 2024
 •	Qualys Vulnerability Management Foundation, 2024
-
 •	Cisco Networking Basics, 2024
-
 •	Google, AI Essentials, 2024
-
 •	AWS Cloud Essentials, 2024
-
-•	Google, UX Design, 2023
+•	UX Design - Google, 2023
 
 
 
 ### Practical Projects
+
+•	**Cybersecurity Lab Environment Setup**
+  Created a virtual lab on MacBook Air M2 using VirtualBox with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, network            monitoring, and log analysis.
+
+•	**ANZ Australia Cyber Security Management Job Simulation on Forage**
+  Investigated e-mails to report suspicious items and analysed a Packet Capture file using an open-source tool to identify and investigate any potential threats.
+
 •	**Telstra Cybersecurity Job Simulation on Forage - October 2024**
   Completed a job simulation as an analyst with the Telstra Security Operations team, gaining valuable expertise in malware detection, incident response and implementing firewalls. 
 
