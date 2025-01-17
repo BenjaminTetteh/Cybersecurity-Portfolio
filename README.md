@@ -39,16 +39,17 @@ My foray into cybersecurity stems from my passion, self-motivation, and desire t
   Created a virtual lab on MacBook Air M2 using VirtualBox with KALI Linux, Metasploitable 2, Nessus Essentials, and WPScan for vulnerability management, malware analysis, network            monitoring, and log analysis.
 
 •	**ANZ Australia Cyber Security Management Job Simulation on Forage**
-  Investigated e-mails to report suspicious items and analysed a Packet Capture file using an open-source tool to identify and investigate any potential threats.
-
+  Investigated suspicious phishing e-mails and analysed a Packet Capture file using Wireshark and a Hex-editor to identify and investigate any potential threats.
+  
 •	**Telstra Cybersecurity Job Simulation on Forage - October 2024**
   Completed a job simulation as an analyst with the Telstra Security Operations team, gaining valuable expertise in malware detection, incident response and implementing firewalls. 
 
 •	**PwC Switzerland Cybersecurity Job Simulation on Forage - September 2024**
-  Completed a PwC Digital Intelligence cybersecurity simulation, gaining expertise in integrated defense, risk assessments, network segmentation, and firewall configuration.
+  Gained hands-on experience in integrated defense strategies and their real-world applications. Conducted risk assessments, provided security recommendations, and demonstrated expertise     in network segmentation, firewall configuration, and cybersecurity terminology. This experience enhanced my ability to analyze threats and design robust security solutions.
 
 •	**Mastercard Cybersecurity virtual experience program on Forage - September 2024**
-  Completed a job simulation as an analyst on Mastercard’s Security Awareness Team, identifying security threats and implementing targeted training for vulnerable teams.
+  Completed a job simulation where I helped identify and report phishing threats. Also analyzed and identified which areas of the business needed more robust security training and       
+  implemented training courses and procedures for those teams for threat mitigation.
 
 
 
